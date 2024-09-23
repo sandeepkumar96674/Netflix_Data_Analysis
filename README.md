@@ -12,6 +12,10 @@
 
 ##### Q2. Count of Shows released in each Year
 
+##### Q3. Distinct Type of Shows 
+
+##### Q4. Top-5 Country with most released shows (Movies/ TV Shows)
+
  
 ## Final Dashboard:
 ![Screenshot 2024-08-28 034913](https://github.com/user-attachments/assets/51daf74d-b712-4ef1-ae4e-1ac1d3705429)
