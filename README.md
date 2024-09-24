@@ -1,4 +1,4 @@
-## Project Title : Netflix Data Dive
+## Project Title : Netflix Data Analysis
 
 ## Get the Dataset and other resource from [here](https://drive.google.com/file/d/1xBNNC_0mHvPj_dY1DcKfKdnRzUeLpg7F/view?usp=sharing) 
 
