@@ -27,6 +27,6 @@
 
 ### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ```
-https://github.com/sandeepkumar96674/Blinkit-Data-Insight.git
+https://github.com/sandeepkumar96674/Netflix_Data_Analysis
 ```
 #### For more please connect with me on [LinkedIn](https://www.linkedin.com/in/the-sandeep-kumar)
