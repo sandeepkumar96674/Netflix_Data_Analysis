@@ -23,6 +23,15 @@
 ##### Q4. Top-5 Country with most released shows (Movies/ TV Shows)
 ``` 
 ```
+#### Q5. Shows with Director name who has directed show with 5 Seasons
+```
+```
+#### Q6. Shows with it's id who have directors (Director Column should not null)
+```
+```
+#### Q7. Shows with the genre "Documentaries"
+```
+```
 
 
 ### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
