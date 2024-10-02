@@ -43,9 +43,8 @@ select show_id,title from netflix where director is not null;
 select title,release_year,listed_in from netflix where listed_in = 'Documentaries';
 ```
 
-
 ### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ```
-https://github.com/sandeepkumar96674/Netflix_Data_Analysis
+https://github.com/sandeepkumar96674/Netflix_Data_Analysis.git
 ```
 #### For more please connect with me on [LinkedIn](https://www.linkedin.com/in/the-sandeep-kumar)
