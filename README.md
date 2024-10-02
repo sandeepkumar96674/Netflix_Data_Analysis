@@ -9,28 +9,38 @@
 ### Question solved by the Queries :
 
 ##### Q1. Count the Number of Movie and TV Shows in type column
-``` 
+```
+select count(type) as TV from netflix where type ='TV Show';
+select count(type) as movies from netflix where type ='Movie';
+ 
 ```
 
 ##### Q2. Count of Shows released in each Year
-``` 
+```
+select count(title),release_year from netflix group by release_year order by release_year asc;
+
 ```
 
 ##### Q3. Distinct Type of Shows 
-``` 
+```
+select distinct type from netflix;
 ```
 
 ##### Q4. Top-5 Countries with most released shows (Movies/ TV Shows)
-``` 
+```
+select country,count(country) as show_count from netflix where country is not null group by country order by show_count desc limit 5;
 ```
 #### Q5. Shows with Director name who has directed show with 5 Seasons
 ```
+select title,director from netflix where duration = '5 Seasons';
 ```
 #### Q6. Shows with it's id who have directors (Director Column should not null)
 ```
+select show_id,title from netflix where director is not null;
 ```
 #### Q7. Shows with the genre "Documentaries"
 ```
+select title,release_year,listed_in from netflix where listed_in = 'Documentaries';
 ```
 
 
