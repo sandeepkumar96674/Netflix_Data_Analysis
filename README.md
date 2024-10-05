@@ -49,6 +49,8 @@ select title,release_year,listed_in from netflix where listed_in = 'Documentarie
 select title from netflix where director = 'Toshiya Shinohara';
 ```
 
+#### You can also get the Insight and Understanding of Data by using the Above Queries.
+
 ### Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ```
 https://github.com/sandeepkumar96674/Netflix_Data_Analysis.git
