@@ -1,6 +1,6 @@
 ## Project Title : Netflix Data Analysis
 
-## Get the Dataset and other resource from [here](https://drive.google.com/file/d/1xBNNC_0mHvPj_dY1DcKfKdnRzUeLpg7F/view?usp=sharing) 
+## Get the Dataset from [here](https://drive.google.com/file/d/1xBNNC_0mHvPj_dY1DcKfKdnRzUeLpg7F/view?usp=sharing) 
 
 ### About the Dataset:
 ![image](https://github.com/user-attachments/assets/7690ea3e-c133-4ade-a033-11fc25fcf919)
