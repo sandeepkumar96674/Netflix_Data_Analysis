@@ -5,6 +5,7 @@
 ### About the Dataset:
 ![image](https://github.com/user-attachments/assets/7690ea3e-c133-4ade-a033-11fc25fcf919)
 
+### The Data is Stored in the Table named "Netflix".
 
 ### Question solved by the Queries :
 
