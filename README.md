@@ -7,7 +7,7 @@
 
 ### The Data is Stored in the Table named "Netflix".
 
-### Question solved by the Queries :
+### Question solved by the Queries are following:
 
 ##### Q1. Count the Number of Movie and TV Shows in type column
 ```
